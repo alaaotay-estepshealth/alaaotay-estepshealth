@@ -4,7 +4,7 @@ Full‐Stack Engineer focused on backend systems: FastAPI & Laravel, secure APIs
 
 - 🌍 Tunisia
 - 🎓 Software Engineering
-- 🏢 **Current Workplace:** [eSteps Health](https://estepshealth.com/) 
+- 🏢 Current Workplace: [eSteps Health](https://estepshealth.com/) 
 - 🌐 Portfolio: [https://alaaotay.netlify.app](https://alaaotay.netlify.app)
 - 💼 LinkedIn: [https://linkedin.com/in/alaa-otay8](https://linkedin.com/in/alaa-otay8)
 - 📫 Email: alaaotay8@gmail.com
