@@ -14,8 +14,9 @@ Full‐Stack Engineer focused on backend systems: FastAPI & Laravel, secure APIs
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,fastapi,php,laravel,js,vue,html,css,bootstrap,postgres,mysql,supabase,docker,git,github" />
 </a>
+<img width="10" />
 <a href="https://n8n.io">
-  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="48" height="48" style="background:#2d333b;border-radius:10px;padding:6px;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" alt="n8n" width="48" height="48" />
 </a>
 
 ## Featured projects
